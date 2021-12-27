@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Domonique Churchill</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="Bio">
+    \n\n Ms. Domonique Churchill is a graduate of Bellarmine University in Louisville, Kentucky
+    where she received her Bachelor of Arts degree and Masters in Business Administration.
+    While attending Bellarmine University she studied abroad, served as President of the school
+    multicultural organization, and represented her class in the Student Government Association.
+    As a class representative, she often participated in and advised university leadership during
+    the hiring process to appoint new faculty and staff to the institution.
+    \n This is when Ms. Churchill discovered her passion for helping to connect the best talent to
+    the perfect role. She has spent over 10 years helping various employers find the right talent
+    as a recruiter and diversity, equity, and inclusion consultant leveraging her skills in
+    strategic planning and process improvement. In this area, she has worked for the
+    federal government and fortune 50 companies helping those organizations to remove barriers
+    to employment for diverse candidates and create a more inclusive work environment.
+    \n After years of climbing the corporate ladder, Domonique now enjoys learning to code and
+     pivoting to a new career in tech in 2022.
+    \n </string>
+    <string name="nick_name">Nick Name</string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
